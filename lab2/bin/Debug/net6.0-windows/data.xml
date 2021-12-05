@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<StaffBase>
+	<Staff
+		ID="1"
+		NAME="Петров"
+		DEPARTMENT="Соціологія"
+		BIRTHDAY="10/10/1970"
+		GENDER="Ч">
+	</Staff>
+	<Staff
+		ID="2"
+		NAME="Іванов"
+		DEPARTMENT="Кібернетика"
+		BIRTHDAY="05/07/1940"
+		GENDER="Ч">
+	</Staff>
+	<Staff
+		ID="3"
+		NAME="Сидорова"
+		DEPARTMENT="Соціологія"
+		BIRTHDAY="12/12/1955"
+		GENDER="Ж">
+	</Staff>
+	<Staff
+		ID="4"
+		NAME="Бондаренко"
+		DEPARTMENT="Кібернетика"
+		BIRTHDAY="11/09/1990"
+		GENDER="Ж">
+	</Staff>
+	<Staff
+		ID="5"
+		NAME="Шевченко"
+		DEPARTMENT="Кібернетика"
+		BIRTHDAY="11/09/1997"
+		GENDER="Ч">
+	</Staff>
+	
+</StaffBase>
